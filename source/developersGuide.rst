@@ -100,32 +100,32 @@ Tools and Technologies
    :width:  50px
 
 .. image:: assets/css3.jpg
-   :alt: html
+   :alt: css3
    :height: 50px
    :width: 50px
 
 .. image:: assets/js.jpg
-   :alt: html
+   :alt: js
    :height: 50px
    :width: 50px
 
 .. image:: assets/ml.jpg
-   :alt: html
+   :alt: ML
    :height: 50px
    :width: 50px
 
 .. image:: assets/ibmwatson.jpg
-   :alt: html
+   :alt: IBM Watson
    :height: 50px
    :width: 50px 
 
 .. image:: assets/nodejs.png
-   :alt: html
+   :alt: NodeJs
    :height: 50px
    :width: 50px
 
 .. image:: assets/mongodb.jpg
-   :alt: html
+   :alt: MongoDB
    :height: 50px
    :width: 50px   
 

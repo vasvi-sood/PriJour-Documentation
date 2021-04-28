@@ -41,6 +41,6 @@ A graph of the happiness index based on Journal entries. The graph gets closer t
 The mood tracker quiz determines the user's mood and displays a custom feed based on the results.
 
 .. image:: assets/mamta.png
-   :alt: feed
+   :alt: Mamta
 
 Mamta has a variety of jokes, quotes, and movie recommendations, among other things. She lends her ears whenever you want to say something.
