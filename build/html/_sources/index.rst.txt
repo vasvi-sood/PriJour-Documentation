@@ -1,15 +1,8 @@
 .. THIS IS THE DOCUMENTATION PAGE
 
-PriJour: Documentation
+PriJour
 =========================================
-
-Another Simple header
-=========================================
-Here is some text::
-
-    print ('hello')
-    >>hello
-
+https://pri-jour.herokuapp.com/
 Guide
 ^^^^^^^^
 .. toctree::
