@@ -1,6 +1,6 @@
 .. THIS IS THE DOCUMENTATION PAGE
 
-PriJour: Documentation
+PriJour
 =========================================
 
 Guide
