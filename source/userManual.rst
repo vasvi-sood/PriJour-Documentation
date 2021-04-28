@@ -7,7 +7,7 @@ This guide is for making users familiar with PriJour's functionality and feature
 
 
 
-.. image:: https://github.com/vasvi-sood/PriJour-Documentation/blob/main/build/html/assets/login.png
+.. image:: assets/login.png
    :alt: Login Screen
    
 

@@ -13,7 +13,7 @@ This guide is for making users familiar with PriJour's functionality and feature
 
 Use your Google account to register or log in. We want to provide you with a personalized experience, so  it’s important that you register.
 
-.. image:: assets/journal.png
+.. image:: ./assets/journal.png
    :alt: Journal Screen
 
 Spill out your emotions in the journal and save them with this button.
